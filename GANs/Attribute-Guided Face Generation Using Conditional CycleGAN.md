@@ -2,11 +2,11 @@
 
 ### Architecture
 
-![conditional cycleGAN](images\conditional cycleGAN.png)
+![conditional_cycleGAN](images\conditional_cycleGAN.PNG)
 
 ### Algorithm
 
-![cCycleGAN algorithm](images\cCycleGAN algorithm.png)
+![cCycleGAN_algorithm](images\cCycleGAN_algorithm.PNG)
 
 ### Some Note
 
